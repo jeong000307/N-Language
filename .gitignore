@@ -30,9 +30,9 @@ Temporary Items
 
 # End of https://www.gitignore.io/api/macos
 
+# Custom
 a.out
 .vscode
-trash
 *.o
 parser
 output.*
